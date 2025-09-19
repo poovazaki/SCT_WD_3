@@ -73,10 +73,4 @@ npm run preview
 - Add questions in [src/data](src/data)
 - Update styles in [src/index.css](src/index.css)
 
-## License
 
-MIT
-
----
-
-Made with ❤ using React, TypeScript, Vite, and Tailwind CSS.
